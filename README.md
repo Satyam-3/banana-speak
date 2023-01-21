@@ -1,0 +1,2 @@
+Hello! this is a web application called Navi-Speak.
+This app can be used to translate english language to navi language (navi is a language which is spoken by the people of Pandora) this is the language used in the james cameron movie AVATAR
